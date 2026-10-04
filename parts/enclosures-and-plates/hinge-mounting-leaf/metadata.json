@@ -1,0 +1,22 @@
+{
+  "category": "enclosures-and-plates",
+  "slug": "hinge-mounting-leaf",
+  "title": "Hinge mounting leaf",
+  "description": "A 50 \u00d7 35 mm mounting leaf with a 7 mm hinge bore and two 5 mm mounting holes.",
+  "author": "CADProps",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/cadprobs-a11y/cadprops-step-models/blob/main/sources/original-parts.py",
+  "modifications": "Original procedural CAD model by CADProps; STEP, STL, IGES and preview generated from the same B-Rep geometry.",
+  "source_sha256": "61284618f9de4d20b98f72c588d7bf8f490ee6913a89f76ff08bd80768caa28a",
+  "geometry": {
+    "dimensions_mm": [
+      50.0,
+      35.0,
+      15.0
+    ],
+    "volume_mm3": 10037.258155894262,
+    "surface_area_mm2": 5844.958826389894,
+    "solid_count": 1,
+    "valid": true
+  }
+}
