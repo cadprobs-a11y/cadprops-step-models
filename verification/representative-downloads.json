@@ -1,0 +1,80 @@
+[
+  {
+    "part": "socket-head-screw-m5x16",
+    "category": "fasteners",
+    "format": "step",
+    "download_url": "https://github.com/cadprobs-a11y/cadprops-step-models/raw/refs/heads/main/parts/fasteners/socket-head-screw-m5x16/socket-head-screw-m5x16.step",
+    "status": 200,
+    "sha256": "ca43186249d56c10684d87e162b6b5ae305a294957574adb6f904a3b0266e6a8",
+    "expected_dimensions_mm": [
+      8.500000199882,
+      8.500000199882,
+      21.0
+    ]
+  },
+  {
+    "part": "split-lock-washer-m5",
+    "category": "sleeves-and-washers",
+    "format": "stl",
+    "download_url": "https://github.com/cadprobs-a11y/cadprops-step-models/raw/refs/heads/main/parts/sleeves-and-washers/split-lock-washer-m5/split-lock-washer-m5.stl",
+    "status": 200,
+    "sha256": "57f3c45a97236951e7a120042e67c3d4a3a0c66e67cfdfeb5a8aaf3067396192",
+    "expected_dimensions_mm": [
+      9.193218005788243,
+      9.19999965922365,
+      2.3322852687115296
+    ]
+  },
+  {
+    "part": "corner-bracket-2020",
+    "category": "brackets-and-connectors",
+    "format": "iges",
+    "download_url": "https://github.com/cadprobs-a11y/cadprops-step-models/raw/refs/heads/main/parts/brackets-and-connectors/corner-bracket-2020/corner-bracket-2020.iges",
+    "status": 200,
+    "sha256": "0a94586d5603899b5375588a1fba472c0c22e9a36148fb093a62a619920bf4c1",
+    "expected_dimensions_mm": [
+      17.000000000000114,
+      21.000000000000018,
+      21.000000000000007
+    ]
+  },
+  {
+    "part": "ball-bearing-608zz",
+    "category": "bearings-and-transmission",
+    "format": "step",
+    "download_url": "https://github.com/cadprobs-a11y/cadprops-step-models/raw/refs/heads/main/parts/bearings-and-transmission/ball-bearing-608zz/ball-bearing-608zz.step",
+    "status": 200,
+    "sha256": "45246a4cf1bc63c8186ad8de22a74f44a63aecb450294356592c321bf281e3d3",
+    "expected_dimensions_mm": [
+      22.0,
+      22.000000000000004,
+      7.000000000000171
+    ]
+  },
+  {
+    "part": "pvc-elbow-32",
+    "category": "flanges-and-pipes",
+    "format": "iges",
+    "download_url": "https://github.com/cadprobs-a11y/cadprops-step-models/raw/refs/heads/main/parts/flanges-and-pipes/pvc-elbow-32/pvc-elbow-32.iges",
+    "status": 200,
+    "sha256": "67d2179c6ebcf6512fd7e8416b473d901598b48ead96cc90ccb43ee9b949d811",
+    "expected_dimensions_mm": [
+      69.0,
+      69.00000010000002,
+      38.00000020000001
+    ]
+  },
+  {
+    "part": "electronics-tray",
+    "category": "enclosures-and-plates",
+    "format": "stl",
+    "download_url": "https://github.com/cadprobs-a11y/cadprops-step-models/raw/refs/heads/main/parts/enclosures-and-plates/electronics-tray/electronics-tray.stl",
+    "status": 200,
+    "sha256": "4200fdee8ff6a3ec912e22cb9fdd158e7ea2509d686a3bdc2abe975d169d1811",
+    "expected_dimensions_mm": [
+      80.0,
+      60.0,
+      24.0
+    ]
+  }
+]

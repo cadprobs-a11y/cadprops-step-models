@@ -1,0 +1,7 @@
+part,category,format,download_status,expected_x_mm,expected_y_mm,expected_z_mm,cadprops_render_status,cadprops_dimensions_status,reason
+socket-head-screw-m5x16,fasteners,step,PASS,8.500000199882,8.500000199882,21.0,NOT_VERIFIED,NOT_VERIFIED,Upload verification failed before geometry processing; Cloudflare Turnstile error 300030 observed.
+split-lock-washer-m5,sleeves-and-washers,stl,PASS,9.193218005788243,9.19999965922365,2.3322852687115296,NOT_VERIFIED,NOT_VERIFIED,Upload verification failed before geometry processing; Cloudflare Turnstile error 300030 observed.
+corner-bracket-2020,brackets-and-connectors,iges,PASS,17.000000000000114,21.000000000000018,21.000000000000007,NOT_VERIFIED,NOT_VERIFIED,Upload verification failed before geometry processing; Cloudflare Turnstile error 300030 observed.
+ball-bearing-608zz,bearings-and-transmission,step,PASS,22.0,22.000000000000004,7.000000000000171,NOT_VERIFIED,NOT_VERIFIED,Upload verification failed before geometry processing; Cloudflare Turnstile error 300030 observed.
+pvc-elbow-32,flanges-and-pipes,iges,PASS,69.0,69.00000010000002,38.00000020000001,NOT_VERIFIED,NOT_VERIFIED,Upload verification failed before geometry processing; Cloudflare Turnstile error 300030 observed.
+electronics-tray,enclosures-and-plates,stl,PASS,80.0,60.0,24.0,NOT_VERIFIED,NOT_VERIFIED,Upload verification failed before geometry processing; Cloudflare Turnstile error 300030 observed.

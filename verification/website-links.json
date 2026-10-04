@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://www.cadprops.com/accuracy/",
+    "status": 200,
+    "title": "CAD Measurement Accuracy: Geometry, Units &amp; Mass | CADProps"
+  },
+  {
+    "url": "https://www.cadprops.com/privacy/",
+    "status": 200,
+    "title": "Privacy Policy | CADProps"
+  },
+  {
+    "url": "https://www.cadprops.com/tools/cad-dimensions/",
+    "status": 200,
+    "title": "STEP File Dimensions Online: Measure X, Y, Z &amp; Distances | CADProps"
+  },
+  {
+    "url": "https://www.cadprops.com/tools/cad-surface-area/",
+    "status": 200,
+    "title": "CAD Surface Area Calculator: Measure STEP Geometry | CADProps"
+  },
+  {
+    "url": "https://www.cadprops.com/tools/cad-volume-calculator/",
+    "status": 200,
+    "title": "CAD Volume Calculator: Measure STEP Solid Volume | CADProps"
+  },
+  {
+    "url": "https://www.cadprops.com/tools/compare-cad-files/",
+    "status": 200,
+    "title": "Compare CAD Files Online: STEP Geometry &amp; Properties | CADProps"
+  },
+  {
+    "url": "https://www.cadprops.com/tools/step-viewer/",
+    "status": 200,
+    "title": "STEP Viewer Online: Open STP Files &amp; Measure CAD | CADProps"
+  }
+]
