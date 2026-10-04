@@ -1,0 +1,22 @@
+{
+  "category": "enclosures-and-plates",
+  "slug": "bearing-housing",
+  "title": "Bearing housing",
+  "description": "An original 120 \u00d7 80 \u00d7 89 mm demonstration housing with a 52 mm through bore and mounting holes.",
+  "author": "CADProps",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/cadprobs-a11y/cadprops-step-models/blob/main/sources/original-parts.py",
+  "modifications": "Original procedural CAD model by CADProps; STEP, STL, IGES and preview generated from the same B-Rep geometry.",
+  "source_sha256": "f2c5e937b831f94204ee270500741648d8802b37c2f4cb0124d058993620943f",
+  "geometry": {
+    "dimensions_mm": [
+      120.0,
+      74.0,
+      89.0
+    ],
+    "volume_mm3": 206474.30717620847,
+    "surface_area_mm2": 49026.8718442785,
+    "solid_count": 1,
+    "valid": true
+  }
+}
