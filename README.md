@@ -74,11 +74,11 @@ Choose a category below. Every part folder contains a STEP model, an STL mesh, a
 
 ## Inspect a downloaded model
 
-Open a file in the [CADProps STEP viewer](https://www.cadprops.com/tools/step-viewer/) to rotate it, inspect its structure and check its source-axis dimensions. The [dimensions tool](https://www.cadprops.com/tools/cad-dimensions/) helps with envelope and supported local measurements. For valid closed CAD solids, use the [volume calculator](https://www.cadprops.com/tools/cad-volume-calculator/); STL properties are mesh approximations.
+Open a file in the [STEP viewer](https://www.cadprops.com/tools/step-viewer/) to rotate it, inspect its structure and check its source-axis dimensions. The [dimensions tool](https://www.cadprops.com/tools/cad-dimensions/) helps with envelope and supported local measurements. For valid closed CAD solids, use the [volume calculator](https://www.cadprops.com/tools/cad-volume-calculator/); STL properties are mesh approximations.
 
 For two revisions kept in the same coordinates, the [CAD comparison tool](https://www.cadprops.com/tools/compare-cad-files/) offers the supported comparison modes. Viewing and measuring can start without an account. Files are uploaded to the server for processing; conversion, account storage and creating share links require signing in.
 
-[About CADProps](docs/about-cadprops.md) · [Viewing and measuring guide](docs/view-and-measure.md) · [Formats and units](docs/formats-and-units.md) · [Visit CADProps](https://www.cadprops.com/)
+[About CADProps](docs/about-cadprops.md) · [Viewing and measuring guide](docs/view-and-measure.md) · [Formats and units](docs/formats-and-units.md) · [step file viewer](https://www.cadprops.com/)
 
 ## Sources and reuse
 
@@ -87,5 +87,7 @@ Read each part’s source and license before redistributing it. CC BY parts requ
 These are reference models, not certified manufacturing drawings. Familiar product or standard names identify upstream models; no fit, strength, material or standards-conformance certification is implied.
 
 ## Verification
+
+[Release validation and browser acceptance](verification/README.md) include the passed checks and the outstanding online upload verification.
 
 [Geometry and export checks](verification/geometry-validation.csv) record STEP validity, positive solid volume, readable IGES/STL and envelope consistency. [File checksums](verification/SHA256SUMS.txt) allow downloaded files to be checked against this release.
