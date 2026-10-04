@@ -1,0 +1,22 @@
+{
+  "category": "flanges-and-pipes",
+  "slug": "tapered-pipe-reducer",
+  "title": "Tapered pipe reducer",
+  "description": "A 40 mm long hollow transition from 32 mm to 20 mm outer diameter.",
+  "author": "CADProps",
+  "license": "CC0-1.0",
+  "source_url": "https://github.com/cadprobs-a11y/cadprops-step-models/blob/main/sources/original-parts.py",
+  "modifications": "Original procedural CAD model by CADProps; STEP, STL, IGES and preview generated from the same B-Rep geometry.",
+  "source_sha256": "17087a3177cca28344aa136f502fb64b467ff4cbcd6a28a929c5f50f25b39f58",
+  "geometry": {
+    "dimensions_mm": [
+      32.0,
+      32.0,
+      40.00000000000168
+    ],
+    "volume_mm3": 8705.844784822106,
+    "surface_area_mm2": 6281.3959272267575,
+    "solid_count": 1,
+    "valid": true
+  }
+}
