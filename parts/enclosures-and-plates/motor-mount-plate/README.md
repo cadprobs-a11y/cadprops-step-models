@@ -21,7 +21,7 @@ Volume and area are calculated from STEP B-Rep geometry. They are inspection ref
 
 ## Try an inspection
 
-After downloading, use [CADProps STEP viewer](https://www.cadprops.com/tools/step-viewer/) to inspect this model and check units. Selecting a file uploads it for server processing. Viewing and measuring can start without an account.
+After downloading, use [STEP viewer](https://www.cadprops.com/tools/step-viewer/) to inspect this model and check units. Selecting a file uploads it for server processing. Viewing and measuring can start without an account.
 
 ## Source and license
 
