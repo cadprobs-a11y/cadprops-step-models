@@ -1,6 +1,6 @@
 # About CADProps
 
-[CADProps](https://www.cadprops.com/) provides browser-based CAD and mesh inspection tools. This repository offers downloadable parts that can be used in other CAD software as well as CADProps.
+This [step file viewer](https://www.cadprops.com/) provides browser-based CAD and mesh inspection tools. This repository offers downloadable parts that can be used in other CAD software as well as CADProps.
 
 ## Useful tasks
 

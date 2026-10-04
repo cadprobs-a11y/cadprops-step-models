@@ -1,7 +1,7 @@
 # View and measure a downloaded part
 
 1. Choose a part in the [catalog](../README.md) and download its STEP file.
-2. Open the [CADProps STEP viewer](https://www.cadprops.com/tools/step-viewer/) and select the downloaded file. Selection starts an upload to the processing server.
+2. Open the [STEP viewer](https://www.cadprops.com/tools/step-viewer/) and select the downloaded file. Selection starts an upload to the processing server.
 3. Wait for processing and the visible model. Check any geometry or missing-component warning.
 4. Use Fit, rotation and the structure panel to inspect the loaded bodies.
 5. Read X, Y and Z dimensions in Properties. Compare them with the part README’s millimetre envelope, using the original axes.
